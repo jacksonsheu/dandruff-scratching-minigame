@@ -4,6 +4,9 @@ A small GameMaker prototype where you scratch a character's scalp with your curs
 
 Hold the left mouse button and scrub back and forth over the character's head. The faster you scrub, the more flakes come loose.
 
+<img width="716" height="772" alt="ScreenRecording2026-08-14at7 09 03PM-ezgif com-crop (1)" src="https://github.com/user-attachments/assets/00c3e407-2b4e-4e91-a23b-ba00ade3fb9f" />
+
+
 ## Requirements
 
 - [GameMaker](https://gamemaker.io/) IDE `2024.14.3.217` or newer
