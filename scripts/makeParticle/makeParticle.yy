@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"makeParticle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"makeParticle",
+  "parent":{
+    "name":"SCRIPTS",
+    "path":"folders/SCRIPTS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
