@@ -24,6 +24,7 @@
   },
   "name":"scratch_game",
   "resources":[
+    {"id":{"name":"obj_browser_scaler","path":"objects/obj_browser_scaler/obj_browser_scaler.yy",},},
     {"id":{"name":"obj_cursor","path":"objects/obj_cursor/obj_cursor.yy",},},
     {"id":{"name":"obj_dandruff","path":"objects/obj_dandruff/obj_dandruff.yy",},},
     {"id":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},},

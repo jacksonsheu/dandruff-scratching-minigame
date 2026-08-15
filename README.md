@@ -21,6 +21,7 @@ Hold the left mouse button and scrub back and forth over the character's head. T
 
 ```
 objects/
+  obj_browser_scaler/     Scales the canvas to fit the browser window without cropping
   obj_cursor/             Custom hand cursor that follows the mouse
   obj_person/             The character being scratched
   obj_scratchable_area/   Invisible hitboxes over the scalp; drives the game loop
